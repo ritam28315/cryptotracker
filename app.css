@@ -1,0 +1,29 @@
+.main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 2%;
+}
+body{
+    background-color: #000;
+}
+.fix{
+    border:2px solid #fff;
+    border-radius: 10px;
+    background-color:#fff;
+    padding: 10px;
+}
+h1,h4{
+    color:#fff;
+    
+}
+
+table, th, td {
+    border: 3px solid ;
+    border-collapse: collapse;
+    font-weight: 700;
+    border-radius: 32px;
+  }
+  th, td {
+    background-color: #fff;
+  }
